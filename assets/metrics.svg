@@ -1,0 +1,16 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="20+ UI components, 50+ users tested, 300+ students engaged, 30% faster handoff, 98% visual QA"><g transform="translate(0 0)"><rect x=".5" y=".5" width="223" height="119" rx="6" fill="#000" stroke="#2A2A2A"/>
+<text x="24" y="64" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="300" font-size="50" fill="#F2F2F2">20+</text>
+<text x="24" y="94" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2.5" fill="#6B6B6B">UI COMPONENTS</text>
+<rect x="6" y=".5" width="40" height="1.5" fill="#fff"><animate attributeName="x" values="6;178;6" dur="6s" repeatCount="indefinite"/></rect></g><g transform="translate(244 0)"><rect x=".5" y=".5" width="223" height="119" rx="6" fill="#000" stroke="#2A2A2A"/>
+<text x="24" y="64" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="300" font-size="50" fill="#F2F2F2">50+</text>
+<text x="24" y="94" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2.5" fill="#6B6B6B">USERS TESTED</text>
+<rect x="6" y=".5" width="40" height="1.5" fill="#fff"><animate attributeName="x" values="6;178;6" dur="7s" repeatCount="indefinite"/></rect></g><g transform="translate(488 0)"><rect x=".5" y=".5" width="223" height="119" rx="6" fill="#000" stroke="#2A2A2A"/>
+<text x="24" y="64" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="300" font-size="50" fill="#F2F2F2">300+</text>
+<text x="24" y="94" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2.5" fill="#6B6B6B">STUDENTS ENGAGED</text>
+<rect x="6" y=".5" width="40" height="1.5" fill="#fff"><animate attributeName="x" values="6;178;6" dur="8s" repeatCount="indefinite"/></rect></g><g transform="translate(732 0)"><rect x=".5" y=".5" width="223" height="119" rx="6" fill="#000" stroke="#2A2A2A"/>
+<text x="24" y="64" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="300" font-size="50" fill="#F2F2F2">30%</text>
+<text x="24" y="94" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2.5" fill="#6B6B6B">FASTER HANDOFF</text>
+<rect x="6" y=".5" width="40" height="1.5" fill="#fff"><animate attributeName="x" values="6;178;6" dur="9s" repeatCount="indefinite"/></rect></g><g transform="translate(976 0)"><rect x=".5" y=".5" width="223" height="119" rx="6" fill="#000" stroke="#2A2A2A"/>
+<text x="24" y="64" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="300" font-size="50" fill="#F2F2F2">98%</text>
+<text x="24" y="94" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2.5" fill="#6B6B6B">VISUAL QA</text>
+<rect x="6" y=".5" width="40" height="1.5" fill="#fff"><animate attributeName="x" values="6;178;6" dur="10s" repeatCount="indefinite"/></rect></g></svg>
